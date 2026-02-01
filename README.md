@@ -1,6 +1,6 @@
 # Personal Projects:
 - EngagePro Chatbot
-- ASL Alphabet Generative Model
+- Vision Generative Model
 - Food Image Classifier Model
 
 # Team Projects:
