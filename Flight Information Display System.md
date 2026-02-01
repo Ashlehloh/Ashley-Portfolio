@@ -1,4 +1,5 @@
-# ✈️ Flight Information Display System: https://github.com/allergictoshellfishh/S10266970_PRG2Assignment
+# ✈️ Flight Information Display System
+🔗 Repository: https://github.com/allergictoshellfishh/S10266970_PRG2Assignment
 
 This project is a console-based Flight Information Display System (FIDS) developed for my Programming 2 module assignment.
 
