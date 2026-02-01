@@ -1,5 +1,7 @@
 # Personal Projects:
--
+- EngagePro Chatbot
+- Vision Generative Model
+- Image Classification Model
 
 # Team Projects:
 
