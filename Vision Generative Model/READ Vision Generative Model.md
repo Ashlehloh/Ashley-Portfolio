@@ -1,4 +1,4 @@
-# ✋ Vision Generative Model - ASL Alphabet Conditional Image Generation
+# ✋ Vision Generative Model - ASL Alphabet Conditional Diffusion Image Generation
 
 This project was developed as part of the **Generative AI Solutions** module.
 
