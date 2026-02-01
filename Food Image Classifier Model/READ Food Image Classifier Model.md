@@ -1,6 +1,6 @@
 # 🍔 Food Image Classifier Model - Fine-tune pre-trained CNN InceptionV3
 
-This project was developed as part of the **Generative AI Solutions** module.
+This project was developed as part of the **Deep Learning** module.
 
 The objective of this assignment is to build an image classification model capable of recognising and classifying **10 different types of food** using a subset of the Food-101 dataset from Kaggle.
 
@@ -93,5 +93,5 @@ Only the 10 assigned food categories were used in this project, as specified by 
 
 ---
 
-This project was completed as part of the **Generative AI Solutions** module and demonstrates my ability to design, train and evaluate deep learning-based image classification models using transfer learning on real-world image datasets.
+This project was completed as part of the **Deep Learning** module and demonstrates my ability to design, train and evaluate deep learning-based image classification models using transfer learning on real-world image datasets.
 
