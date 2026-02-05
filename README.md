@@ -1,3 +1,5 @@
+This is a curated portfolio of my team and personal projects in data science and AI, showcasing real-world problem solving, clean workflows, and practical, end-to-end implementations.
+
 # Read the Respective Files above for more Information
 
 <br><br>
