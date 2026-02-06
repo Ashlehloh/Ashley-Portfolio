@@ -4,7 +4,7 @@ This project was developed as part of the **Deep Learning** module.
 
 The objective of this assignment is to build an image classification model capable of recognising and classifying **10 different types of food** using a subset of the Food-101 dataset from Kaggle.
 
-The project focuses on applying transfer learning with a pre-trained convolutional neural network and following a structured machine learning workflow, from data preparation to model evaluation and real-world testing.
+The project focuses on applying transfer learning with a pre-trained convolutional neural network and following a structured machine learning workflow, from data preparation to model evaluation and real-world testing. I have tuned a pre-trained InceptionV3 model to be able to classify the different food images.
 
 ---
 
