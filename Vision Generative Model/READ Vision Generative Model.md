@@ -7,6 +7,7 @@ The model learns to generate realistic hand-sign images conditioned on a given a
 
 The dataset consists of 28×28 grayscale images representing 24 ASL alphabet categories.  
 For this assignment, the model focuses on generating images from **10 assigned alphabet classes**.
+I have trained a conditional diffusion model to be able to generate the 10 ASL Images.
 
 ---
 
